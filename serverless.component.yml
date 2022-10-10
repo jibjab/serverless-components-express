@@ -1,10 +1,10 @@
-name: express
+name: express-jj
 version: 3.0.1
-author: eahefnawy
-org: serverlessinc
+author: luizramirez
+org: jibjab
 description: Deploys a serverless Express.js application onto AWS Lambda and AWS HTTP API.
 keywords: aws, serverless, express
-repo: https://github.com/serverless-components/express
+repo: https://github.com/jibjab/serverless-components-express
 license: MIT
 main: ./src
 
